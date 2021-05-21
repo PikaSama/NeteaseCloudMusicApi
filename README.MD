@@ -27,7 +27,7 @@
 
 ## 安装
 
-```shell
+```bash
 
 $ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git 
 
